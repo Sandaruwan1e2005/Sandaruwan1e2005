@@ -1,92 +1,95 @@
-<h1 align="center">👋 Hi, I'm Sandaruwan Wanninayake</h1>
-<h3 align="center">🎓 Software Engineering Graduate | MSc in IT & Strategic Innovation</h3>
+<!-- HEADER BANNER -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hi+%F0%9F%91%8B+I'm+Sandaruwan+Wanninayake;Software+Engineering+Graduate;MSc+IT+%26+Innovation+%F0%9F%8C%8E;Full-Stack+Dev+%7C+AI+%7C+Builder+of+Cool+Stuff" alt="Typing SVG" />
+</p>
 
 <p align="center">
-  <a href="https://www.sandaruwanwanni.online" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge">
-  </a>
+  <a href="https://www.sandaruwanwanni.online" target="_blank"><img src="https://img.shields.io/badge/🌐 Portfolio-blueviolet?style=for-the-badge&logo=Firefox-Browser&logoColor=white"></a>
+  <a href="mailto:sandaruwanwanni2005@gmail.com"><img src="https://img.shields.io/badge/📩 Email-white?style=for-the-badge&logo=Gmail&logoColor=red"></a>
+  <a href="https://wa.me/94773166237"><img src="https://img.shields.io/badge/💬 WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+</p>
+
+---
+
+### 🌌 About Me
+
+Hey there! I'm Sandaruwan — a **Software Engineering Graduate** from Sri Lanka 🇱🇰, passionate about turning ideas into elegant software solutions.
+
+🚀 Currently diving into:
+- ⚙️ MSc in IT & Strategic Innovation @ Kingston University 🇬🇧  
+- 🤖 AI-powered systems & full-stack development  
+- 💡 Building impactful tools that solve real-world problems  
+
+🧠 I love pushing pixels & code in equal measure.
+
+---
+
+### 🧠 Tech Toolbox
+
+#### ⚙️ Languages & Frameworks
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=php,python,js,cs,html,css,laravel,flask,livewire,tailwind,bootstrap"/>
+</p>
+
+#### 🗃️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
+</p>
+
+#### 🔧 Tools & Dev Environments
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,postman,figma,github"/>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+| 🛠️ Project | 💬 Description | 🧪 Tech Stack |
+|-----------|----------------|--------------|
+| 🎯 **RailYathraBot** | AI assistant for SL Railways — real-time data + ML | `Python`, `Flask`, `SQLite`, `ML` |
+| 🛒 **Gadzey** | AI product descriptions for SMEs | `Laravel`, `Livewire`, `OpenAI GPT` |
+| 🧯 **GasByGas** | Gas order & delivery tracking platform | `Laravel`, `MySQL` |
+| 🛍️ **Gadztek** | Scalable online store | `Laravel`, `MySQL`, `Tailwind` |
+| 📊 **Grifindo Payroll** | Desktop payroll automation system | `C#`, `SQL Server` |
+
+---
+
+### 🔭 Currently Exploring
+
+- 🧱 Clean Architecture (Laravel & Modular Systems)
+- 🧠 AI Integrations (OpenAI, GPT-3.5/4)
+- 🐍 100 Days of Code (Python Bootcamp – Angela Yu)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
   <a href="mailto:sandaruwanwanni2005@gmail.com">
-    <img src="https://img.shields.io/badge/📧 Email-Me-red?style=for-the-badge">
-  </a>
+    <img src="https://img.icons8.com/color/28/gmail--v1.png"/> <b>Email</b>
+  </a>  
+  <br>
   <a href="https://wa.me/94773166237">
-    <img src="https://img.shields.io/badge/💬 WhatsApp-Message-green?style=for-the-badge">
+    <img src="https://img.icons8.com/color/28/whatsapp--v1.png"/> <b>+94 773 166 237</b>
+  </a>  
+  <br>
+  <a href="https://www.sandaruwanwanni.online">
+    <img src="https://img.icons8.com/color/28/domain.png"/> <b>www.sandaruwanwanni.online</b>
   </a>
 </p>
 
 ---
 
-### 💡 About Me
+### 🛰️ Fun Facts
 
-🎓 I’m a **Software Engineering Graduate** passionate about building real-world tech solutions. Currently pursuing an **MSc in IT & Strategic Innovation (UK)**, I have hands-on experience in full-stack development, AI integration, and UI/UX design.
-
-🚀 Open to internships, freelance projects, and junior software engineering opportunities.
-
----
-
-### 💻 Tech Stack & Tools
-
-#### 👨‍💻 Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</p>
-
-#### 🧰 Frameworks & Libraries
-<p>
-  <img src="https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Livewire-4B5563?style=for-the-badge&logo=livewire&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
-
-#### 🛢️ Databases
-<p>
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
-</p>
-
-#### 🧩 Tools & Platforms
-<p>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+- 🎮 I prototype ideas in Figma before I touch code  
+- 🧩 I believe clean UI is just as important as clean code  
+- 🌱 Always learning, always experimenting  
 
 ---
 
-### 🔥 Highlight Projects
-
-| 🚀 Project Name | Description | Tech Stack |
-|----------------|-------------|------------|
-| `RailYathraBot` | AI travel assistant for Sri Lanka Railways | Python, Flask, SQLite, ML |
-| `Gadzey` | SME platform with GPT-3.5 product descriptions | Laravel, Livewire, OpenAI |
-| `GasByGas` | Online gas ordering system | Laravel, MySQL |
-| `Gadztek` | Full-stack shopping web app | Laravel, MySQL |
-| `Grifindo Payroll` | Payroll desktop application | C#, SQL Server |
-
----
-
-### 📚 Learning Now
-
-- 🐍 `100 Days of Code – Python Bootcamp`
-- ⚙️ `Clean Architecture in Laravel`
-- 🤖 `AI-powered Web Integrations`
-
----
-
-### 📬 Contact Me
-
-<p>
-  <a href="mailto:sandaruwanwanni2005@gmail.com"><img src="https://img.icons8.com/fluency/28/gmail-new.png"/> Email</a><br>
-  <a href="https://wa.me/94773166237"><img src="https://img.icons8.com/fluency/28/whatsapp.png"/> WhatsApp</a><br>
-  <a href="https://www.sandaruwanwanni.online"><img src="https://img.icons8.com/fluency/28/domain.png"/> Portfolio Website</a>
-</p>
-
----
-
-<p align="center"><i>📍 Based in Kurunegala, Sri Lanka | 💼 Available for Internship & Freelance Work</i></p>
+<p align="center"><i>📍 Based in Kurunegala, Sri Lanka — ready to take on the world 🌍</i></p>
