@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.sandaruwanwanni.online" target="_blank">
-    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blueviolet?style=for-the-badge&logo=firefox&logoColor=white">
-  </a>
-  <a href="mailto:sandaruwanwanni2005@gmail.com">
+    <a href="mailto:sandaruwanwanni2005@gmail.com">
     <img src="https://img.shields.io/badge/📩 Email-Click-red?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
@@ -70,9 +67,6 @@ I’m currently reading for an **MSc in IT & Strategic Innovation @ Kingston Uni
 <p align="center">
   <a href="mailto:sandaruwanwanni2005@gmail.com">
     <img src="https://img.icons8.com/fluency/28/gmail-new.png"/> <b>sandaruwanwanni2005@gmail.com</b>
-  </a><br>
-  <a href="https://www.sandaruwanwanni.online">
-    <img src="https://img.icons8.com/fluency/28/domain.png"/> <b>www.sandaruwanwanni.online</b>
   </a>
 </p>
 
@@ -87,4 +81,4 @@ I’m currently reading for an **MSc in IT & Strategic Innovation @ Kingston Uni
 
 ---
 
-<p align="center"><i>🚀 Let’s build the future — one pixel and function at a time.</i></p>
+<p align="center"><i>🚀 Let’s build the future - one pixel and function at a time.</i></p>
